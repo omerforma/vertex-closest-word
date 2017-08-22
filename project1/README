@@ -1,6 +1,7 @@
+This project can open from eclipse.
 
-
-running example: curl -H "Content-Type: application/json" -d "{\"text\":\"c\"}" http://localhost:8080/api/words
+running example: 
+curl -H "Content-Type: application/json" -d "{\"text\":\"c\"}" http://localhost:8080/api/words
 
 c is the word you want as input.
 
