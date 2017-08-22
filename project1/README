@@ -1,7 +1,7 @@
-This project can open from eclipse.
+To run this server you can download the project and open it in eclipse.
 
-running example: 
+When the server is running you can send an input as follow using curl:
+
 curl -H "Content-Type: application/json" -d "{\"text\":\"c\"}" http://localhost:8080/api/words
 
 c is the word you want as input.
-
